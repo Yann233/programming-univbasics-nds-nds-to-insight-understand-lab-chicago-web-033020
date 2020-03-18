@@ -4,7 +4,7 @@ require 'pp'
 # Call the method directors_database to retrieve the NDS
 
 def pretty_print_nds(nds)
-  binding.pry
+#  binding.pry
   #写了binding.pry再learn=>会导致running停在这里，这时候打nds就可以看到它的具体数据
 =begin  [{:name=>"Stephen Spielberg",WhenUsingPpToDisplayComplexDataStructures>)> nds
   :movies=>
